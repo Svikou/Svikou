@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Javascript.**
 
-- 📫 You can send me an email to **svikoubah2K03@gmail.com**
+- 📫 Send me an email to **svikoubah2K03@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
