@@ -1,6 +1,6 @@
 <H1>What up y'all 👋🏽 </H1>
 
-<h3>My name is Saikou Bah and I'm a passionate Front end developer & Indie hacker !</h3>
+<h3>My name is Saikou I'm a passionate Front end developer & Indie hacker !</h3>
 
 - 🔭 I’m currently working on **a Home connect project.**
 
