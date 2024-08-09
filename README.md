@@ -1,7 +1,5 @@
 <H1>What up y'all 👋🏽 </H1>
 
-<h3>My name is Saikou i'm a passionate Front end developer !</h3>
-
 - 🚀 I’m currently working on **A home connect project.**
 
 - 🧠 I’m currently learning **Everything around React.**
