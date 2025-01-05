@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&color=644a3a&weight=700&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There+!;+I'm+Saikou;that+one+Web+Developper;+you+where+looking+for+🫵🏽" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&color=533825&weight=700&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There+!;+I'm+Saikou;that+one+Web+Developper;+you+where+looking+for+🫵🏽" />
 
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 
