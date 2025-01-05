@@ -7,13 +7,22 @@
 </h2>
 
 
+<div align="center">
 
-- 🚀 I’m currently working on **A home connect project.**
+- 🚀 I’m currently working on **A Cloud project.**
 
-- 🧠 I’m currently learning **Everything around React.**
+- 🧠 I’m currently improving my skills in **Figma and Framer.**
 
 - ✉️ Send me an email to **svikoubah2K03@gmail.com**
 
+</div>
+
+<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+<br/>
+<div align="center">
+    
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,express,solidity" width={100}/><br>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
