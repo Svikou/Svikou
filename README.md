@@ -1,4 +1,7 @@
-<img align="right"![](https://komarev.com/ghpvc/?username=Svikou&style=plastic-square&color=orange)>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Svikou&style=plastic-square&color=orange" alt="Profile Views">
+</p>
+
 <H1>What up y'all 👋🏽 </H1>
 
 ![](https://komarev.com/ghpvc/?username=Svikou&style=plastic-square&color=orange)
