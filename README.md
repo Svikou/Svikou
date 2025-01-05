@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/{Svikou}/count.svg)
 <H1>What up y'all 👋🏽 </H1>
 
 - 🚀 I’m currently working on **A home connect project.**
