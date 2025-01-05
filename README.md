@@ -4,7 +4,6 @@
 
 <H1>What up y'all 👋🏽 </H1>
 
-![](https://komarev.com/ghpvc/?username=Svikou&style=plastic-square&color=orange)
 
 - 🚀 I’m currently working on **A home connect project.**
 
