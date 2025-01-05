@@ -11,9 +11,10 @@
     
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,firebase,laravel,nextjs,git,figma" width={100}/><br>
 </div>
-<h1>
+---
+<br><br>
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Svikou&theme=dark)](https://git.io/streak-stats)
 </div>
-<h1/>
+
