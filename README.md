@@ -12,7 +12,7 @@
 <br/>
 <div align="center">
     
-<img src="https://skillicons.dev/icons?i=figma,javascript,react,tailwind,typescript,git,firebase,Nextjs,laravel" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,git,firebase,figma,nextjs,laravel" width={100}/><br>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
