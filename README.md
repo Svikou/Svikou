@@ -7,7 +7,7 @@
 
 <hr/>
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
-<br/>
+
 <div align="center">
     
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,firebase,laravel,nextjs,git,figma" width={100}/><br>
