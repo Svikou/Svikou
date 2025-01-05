@@ -7,21 +7,12 @@
 </h2>
 
 
-<div align="center">
-
-- 🚀 I’m currently working on **A Cloud project.**
-
-- 🧠 I’m currently improving my skills in **Figma and Framer.**
-
-- ✉️ Send me an email to **svikoubah2K03@gmail.com**
-
-</div>
 
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
     
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,express,solidity" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=figma,javascript,react,tailwind,typescript,git,firebase,Nextjs,laravel" width={100}/><br>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
