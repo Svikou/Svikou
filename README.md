@@ -9,7 +9,7 @@
 
 <div align="center">
     
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,firebase,laravel,nextjs,git,figma" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,firebase,laravel,nextjs,git,figma,html,css,pnpm" width={100}/><br>
 </div>
 <hr>
 <div align="center">
