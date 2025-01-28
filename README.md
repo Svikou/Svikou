@@ -11,10 +11,5 @@
     
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,firebase,laravel,nextjs,git,figma,pnpm" width={100}/><br>
 </div>
-<hr>
-<div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Svikou&theme=dark" alt="GitHub Streak" /></a>
-  
-</div>
 
